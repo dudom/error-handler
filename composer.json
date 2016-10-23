@@ -1,0 +1,13 @@
+{
+    "name": "dudom/error-handler",
+    "description": "Error handler for php.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Evgeny",
+            "email": "evgenyulchiev@gmail.com"
+        }
+    ]
+
+
+}
